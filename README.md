@@ -1,4 +1,4 @@
-# Data Analysis and Cleaning Project 📊
+# Data Analysis and Cleaning SQL Project 📊
 
 ## Project Overview
 This project demonstrates an integrated approach to performing Exploratory Data Analysis (EDA) and data cleaning using SQL within a MySQL database management system. It incorporates best practices as shown in tutorials by Alex The Analyst, and uses a KNIME workflow to automate the loading of CSV data into the MySQL database.
